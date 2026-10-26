@@ -3,13 +3,13 @@ chcp 65001 >nul
 setlocal
 cd /d "%~dp0"
 set "PORT=5173"
-set "URL=http://localhost:%PORT%/s/arood-basics"
+set "URL=http://localhost:%PORT%/s/mazeed-harfain"
 if "%~1"==":openbrowser" goto :openbrowser
-title أساسيات في علم العروض - تشغيل العرض
+title الصرف: درس المزيد بحرفين - تشغيل العرض
 
 echo.
 echo  ==================================================
-echo     أساسيات في علم العروض  -  أ. أسماء الحارثية
+echo     الصرف: درس المزيد بحرفين  -  أ. أسماء الحارثية
 echo  ==================================================
 echo.
 
